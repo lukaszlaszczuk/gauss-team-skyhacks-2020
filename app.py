@@ -7,11 +7,8 @@ from wordcloud import WordCloud
 
 import spacy
 from spacy import displacy
-import glob
-import os
 import json
 import time
-from pydub import AudioSegment
 
 translation = ['park rozrywki',
                'zwierzęta',
